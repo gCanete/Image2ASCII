@@ -8,5 +8,9 @@ python ./main.py "image_location"
 ```
 For exaple:
 ```
-python ./main.py "ali.jpg"
+python ./main.py "frog.jpg"
 ```
+
+
+![image](https://github.com/gCanete/Image2ASCII/assets/43179721/3aaef3b2-a5c8-4e0d-ab84-461ebff9bbf7)
+
